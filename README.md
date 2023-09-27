@@ -10,3 +10,9 @@ This Repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 ![activity 2](https://github.com/BrenoPin/BrenoPin.github.io/assets/53989062/9ac55e3c-6cc2-4321-8406-acf77a566740)
 
 ![activity 2_2](https://github.com/BrenoPin/BrenoPin.github.io/assets/53989062/795f0a39-0537-4251-a197-fc3fcfffd337)
+
+# Activity 3
+
+![activity 3](https://github.com/BrenoPin/BrenoPin.github.io/assets/53989062/51ae4360-8106-4ce9-8038-f7eacacf470f)
+
+![activity 3_2](https://github.com/BrenoPin/BrenoPin.github.io/assets/53989062/4fbf4081-53ed-449a-87bb-20c5fe832392)
